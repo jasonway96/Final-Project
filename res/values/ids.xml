@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtphone" type="id" />
+    <item name="txtpassword" type="id" />
+    <item name="txtname" type="id" />
+    <item name="txtEmail" type="id" />
+    <item name="btn_register" type="id" />
+    <item name="tvregister" type="id" />
+</resources>

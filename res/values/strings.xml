@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Final Application</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dialogtakepicture" />
+    <string name="dialogtakepicturea" />
+    <string name="yesbutton" />
+    <string name="nobutton" />
+    <string name="registerfor" />
+    <string name="registerdialognew" />
+    <string name="registrationprocess" />
+    <string name="selectlocation">Select Location</string>
+    <string name="cart">My Cart</string>
+    <string name="location">Location</string>
+    <string-array name="location">
+        <item>All</item>
+        <item>Changlun</item>
+        <item>Sintok</item>
+        <item>Bukit Kayu Hitam</item>
+    </string-array>
+    <string name="title_activity_main_">Main_Activity</string>
+</resources>
